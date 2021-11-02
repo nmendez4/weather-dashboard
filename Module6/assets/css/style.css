@@ -1,0 +1,24 @@
+.header {
+    text-align: center;
+    font-size: 60px;
+    background: -webkit-repeating-linear-gradient(#00ff80, #66FF); 
+    color: whitesmoke;
+}
+
+.green{
+    background-color: green;
+  }
+  .yellow{
+    background-color: yellow;
+  }
+  .orange{
+    background-color: orange;
+  }
+  .red{
+    background-color: red;
+  }
+  
+  .purple{
+    background-color: purple;
+  }
+  
